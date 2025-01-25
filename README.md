@@ -19,9 +19,7 @@ Welcome to the **7 Days Python Challenge**! 🎉 This plan is designed to help y
    print("Hello, World!")
    ```
 
-### Joke of the Day:
-> Why do Python programmers prefer snakes?
-> Because they don't need braces! 🐍
+_(Hint: If your program runs without errors, celebrate like you just solved world hunger!)_
 
 ---
 
@@ -46,9 +44,7 @@ Welcome to the **7 Days Python Challenge**! 🎉 This plan is designed to help y
    ```
 3. Try basic arithmetic operations.
 
-### Joke of the Day:
-> Why did the Python programmer break up with the C++ programmer?
-> They found them too "classy"! 😅
+_(Pro Tip: Variables are like containers. You wouldn’t store juice in a shoe, right? Make sure your data type fits your variable!)_
 
 ---
 
@@ -72,9 +68,7 @@ Welcome to the **7 Days Python Challenge**! 🎉 This plan is designed to help y
 2. Use a `for` loop to print numbers 1 to 10.
 3. Use a `while` loop to create a simple guessing game.
 
-### Joke of the Day:
-> Why don’t programmers like nature?
-> It has too many bugs! 🐛
+_(Loops are your new best friend! Just don’t get stuck in an infinite one, or you’ll be coding forever!)_
 
 ---
 
@@ -98,9 +92,7 @@ Welcome to the **7 Days Python Challenge**! 🎉 This plan is designed to help y
    ```
 3. Experiment with set operations (union, intersection).
 
-### Joke of the Day:
-> Why was the JavaScript developer sad?
-> Because they didn’t know how to `React`. 🤖
+_(Fun fact: Python’s data structures are like superheroes. Lists are your utility belt, and dictionaries are your all-knowing sidekick!)_
 
 ---
 
@@ -125,9 +117,7 @@ Welcome to the **7 Days Python Challenge**! 🎉 This plan is designed to help y
    ```
 3. Experiment with lambda functions.
 
-### Joke of the Day:
-> Why do programmers hate the outdoors?
-> Too many `global` variables. 🌍
+_(Remember: Functions are like your favorite playlist. Create them once, use them forever!)_
 
 ---
 
@@ -153,9 +143,7 @@ Welcome to the **7 Days Python Challenge**! 🎉 This plan is designed to help y
    ```
 3. Practice error handling with `try` and `except`.
 
-### Joke of the Day:
-> Why did the programmer go broke?
-> Because they used up all their cache! 💸
+_(Files are like time capsules. Use them wisely to save your data for the future!)_
 
 ---
 
@@ -196,13 +184,13 @@ Welcome to the **7 Days Python Challenge**! 🎉 This plan is designed to help y
            print("Try again!")
    ```
 
-### Joke of the Day:
-> How many programmers does it take to change a light bulb?
-> None, that’s a hardware problem! 💡
+_(Practice projects are your playground. Don’t be afraid to try new ideas—Python won’t judge!)_
 
 ---
 
 ## Final Thoughts 🏁
 Congratulations on completing the **7 Days Python Challenge**! 🎉 Keep practicing and building small projects to solidify your knowledge. Python is a versatile and fun language, and you’re just getting started!
+
+_(P.S. The only bug you should worry about is the one crawling on your screen, not in your code!)_
 
 Happy Coding! 😄
